@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Flappy Bird-AI</h1>
-<h2>What is this?</h2>
+# Flappy Bird-AI
+## What is this?
 Flappy Bird-AI is a simulation written in python using pygame, that aims to help to understand how genetic algorithms work. It uses those to train an AI to play a very basic implementation of the retro-game Flappy Bird.
 
 ## Installation
